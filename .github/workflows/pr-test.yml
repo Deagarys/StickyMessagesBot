@@ -30,6 +30,9 @@ jobs:
           push: false
           tags: ghcr.io/deagarys/sticky-messages-bot:pr-test
 
+      - name: List Docker images
+        run: docker images
+
       - name: Run Docker container
         run: |
           docker run -d --name sticky-messages-bot-test ghcr.io/deagarys/sticky-messages-bot:pr-test
