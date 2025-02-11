@@ -6,6 +6,7 @@ on:
 env:
   TEST_TAG: deagarys/sticky:test
 
+
 jobs:
   docker:
     runs-on: ubuntu-latest
