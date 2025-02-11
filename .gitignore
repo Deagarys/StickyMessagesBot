@@ -129,3 +129,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 /package-lock.json
+/.idea/.gitignore
+/.idea/encodings.xml
+/.idea/modules.xml
+/.idea/StickyMessagesBot.iml
+/.idea/vcs.xml
