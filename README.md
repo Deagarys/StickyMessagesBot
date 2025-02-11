@@ -3,13 +3,15 @@ This is a self hosted discord bot for sticky messages, after setup in a channel,
 
 It automatically deletes its own previous message and sends a new message, after a user has send a message.
 
+## Command
+`/sticky create [message-id] [channel-id] [message-is-embed]` -> creates a sticky message
 
-## .env file
->TOKEN=\
->DBURI=\
->BOTID=
+## Environment Variables
+TOKEN \
+DBURI \
+BOTID 
 
-These variables are needed, the dburi is for mongoDB
+These are the environment variables that need to be in either the .env file or in the container environment.
 
 ## Setup
 run `npm install`\
