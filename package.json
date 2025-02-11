@@ -1,0 +1,22 @@
+{
+    "name": "sticky-messages-bot",
+    "version": "1.0.0",
+    "description": "Bot that creates a sticky message and keeps it on the bottom of a channel.",
+    "main": "./src/index.js",
+    "scripts": {
+        "start": "node ./src/index.js",
+        "delete": "node ./src/delete.js",
+        "dev": "nodemon --ext js,json,ts ./src/index.js"
+    },
+    "keywords": [],
+    "author": "Deagarys",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "commandkit": "^0.1.10",
+        "discord.js": "^14.18.0",
+        "dotenv": "^16.4.5",
+        "mongoose": "^8.9.5",
+        "nodemon": "^3.1.6"
+    }
+}
