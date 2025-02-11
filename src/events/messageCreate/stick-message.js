@@ -34,5 +34,5 @@ export default async (message, client, handler) => {
         await sticks.save();
     }
 
-    console.log("🔹 - Sticky message send.");
+    console.log("🔹 - Sticky message sent!");
 }
