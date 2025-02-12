@@ -1,10 +1,8 @@
 # Sticky Messages Discord Bot
+[![Build and Test Docker Image](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/pr-test.yml/badge.svg)](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/pr-test.yml)
+[![CodeQL](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/github-code-scanning/codeql)
 [![Deploy to Docker](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/deploy-docker.yml/badge.svg)](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/deploy-docker.yml)
 [![Deploy Docker Image to GitHub Packages](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/deploy-git.yml/badge.svg)](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/deploy-git.yml)
-[![CodeQL](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/github-code-scanning/codeql)
-[![Build and Test Docker Image](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/pr-test.yml/badge.svg)](https://github.com/Deagarys/StickyMessagesBot/actions/workflows/pr-test.yml)
-
-![Recording2024-09-21005140-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e0ac5b87-53b0-4f07-8b1f-3eeda40a1050) 
 
 ## Overview
 
