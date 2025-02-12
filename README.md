@@ -6,7 +6,7 @@
 
 ## Overview
 
-Sticky Messages Discord Bot is a bot designed to help manage and maintain sticky messages in your Discord server. Sticky messages are messages that stay at the bottom of a channel, ensuring important information is always visible.
+Sticky Messages Discord Bot is a bot designed to help manage and maintain sticky messages in your Discord server. Sticky messages are messages that stay at the bottom of a channel, ensuring important information is always visible.  It is built using JavaScript and the `discord.js` library.
 
 ## Features
 
