@@ -62,10 +62,6 @@ Invite the bot to your Discord server and use the following commands to manage s
 - `/sticky create <message-id> <channel-id> <message-is-embed>`: Stick a message to the bottom of the channel
 - `/sticky remove <message-id>`: Remove the sticky message from the channel (Not yet implemented)
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License.
