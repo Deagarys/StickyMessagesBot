@@ -1,4 +1,4 @@
-import { SlashCommandBuilder } from "discord.js";
+import { SlashCommandBuilder, PermissionFlagsBits } from "discord.js";
 import StickyMessage from "../../../models/stickyMessage.js";
 
 export const data = new SlashCommandBuilder()
@@ -26,7 +26,7 @@ export const data = new SlashCommandBuilder()
                     .setDescription('Message Id of the message that should be send.')
                     .setRequired(true)
             )
-    );
+    ).setDefaultMemberPermissions(PermissionFlagsBits.ManageMessages);
 
 export async function run({interaction, client, handler}) {
     await interaction.deferReply();
